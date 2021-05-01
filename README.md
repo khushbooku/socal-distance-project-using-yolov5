@@ -1,1 +1,1 @@
-# socal-distance-projecy-using-yolov5
+# socal-distance-project-using-yolov5
